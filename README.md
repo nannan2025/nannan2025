@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer</h3>
 
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/121724887/211006107-3697912d-ab60-42c1-a40f-934357981835.png">
+<img align="center" width="600" alt="image" src="https://user-images.githubusercontent.com/121724887/211006107-3697912d-ab60-42c1-a40f-934357981835.png">
 
 Link to Personal Portfolio: https://nannan2025.github.io/Personal-Portfolio/
 
