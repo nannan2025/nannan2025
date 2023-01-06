@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nannan2025" alt="nannan2025" /></a> </p>
 
+<img width="1234" alt="image" src="https://user-images.githubusercontent.com/121724887/211006107-3697912d-ab60-42c1-a40f-934357981835.png">
+
+
 - 🌱 I’m currently learning **Front-end tools**
 
 - 💬 Ask me about **react**
