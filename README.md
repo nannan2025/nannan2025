@@ -12,9 +12,7 @@
 
 - ⚡ Fun fact **I love photography**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nan-lin-wah-sin-htoo-97a800161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nan-lin-wah-sin-htoo-97a800161/" height="30" width="40" /></a>
+
 </p>
 
 <img width="1234" alt="image" src="https://user-images.githubusercontent.com/121724887/211006107-3697912d-ab60-42c1-a40f-934357981835.png">
