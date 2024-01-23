@@ -24,4 +24,3 @@ Link to Personal Portfolio: https://nannan2025.github.io/Personal-Portfolio/
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nannan2025&show_icons=true&locale=en&layout=compact" alt="nannan2025" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nannan2025&" alt="nannan2025" /></p>
