@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nannan2025" alt="nannan2025" /></a> </p>
 
 
-- 🌱 I’m currently learning **Front-end tools**
+- 🌱 I’m currently learning **Back-end tools**
 
 - 💬 Ask me about **react**
 
@@ -12,13 +12,11 @@
 
 - ⚡ Fun fact **I love photography**
 
-
 </p>
 
 <img width="1234" alt="image" src="https://user-images.githubusercontent.com/121724887/211006107-3697912d-ab60-42c1-a40f-934357981835.png">
 
 Link to Personal Portfolio: https://nannan2025.github.io/Personal-Portfolio/
-
 
 
 <h3 align="left">Languages and Tools:</h3>
